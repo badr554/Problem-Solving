@@ -77,7 +77,7 @@ if( temp > 30){
 */
 
 // Question 8
-/
+/*
 var x = prompt(); 
 if(x %2 ==0){
     console.log("Even Number");
@@ -87,7 +87,7 @@ if(x %2 ==0){
 */
 
 // Question 9
-/* 
+/*
 var x = prompt(); 
 if(x %2 ==0){
     console.log("Even Number");
@@ -96,5 +96,7 @@ else if(x%2 !=0){
     console.log("Odd Number");
 }else if (x>20){
     console.log("you can enter the university")
+} else{
+    console.log("cant enter")
 }
 */
